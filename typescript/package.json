@@ -154,7 +154,7 @@
     "object-hash": "^3.0.0",
     "p-queue-compat": "^1.0.229",
     "p-throttle": "^7.0.0",
-    "pino": "^9.6.0",
+    "pino": "^9.14.0",
     "promise-based-task": "^3.1.1",
     "remeda": "^2.21.0",
     "serialize-error-cjs": "^0.2.0",
