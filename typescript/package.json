@@ -146,7 +146,7 @@
     "ajv-formats": "^3.0.1",
     "duck-duck-scrape": "^2.2.7",
     "fast-xml-parser": "^5.2.5",
-    "header-generator": "^2.1.69",
+    "header-generator": "^2.1.76",
     "joplin-turndown-plugin-gfm": "^1.0.12",
     "jsonrepair": "^3.13.0",
     "mathjs": "^14.0.0",
